@@ -1,283 +1,283 @@
-Link for the repository:,Design Pattern,Language ,Comment ,,Design Patten Name,Count,,,,,
-https://github.com/BrentAble/SingeltonPattern,Singleton,Java,2019,,Singleton,46,,,Total,,
-https://github.com/BrentAble/FactoryDesignPattern,Factory,Java,2019,,Factory,67,,,Creational ,Structural,Behavioral
-https://github.com/BrentAble/CommandDesignPattern,Command,Java,2019,,Command,2,,,249,12,15
-https://github.com/BrentAble/CSCE247TemplateDesignPattern,Template,Java,2019,,Template,2,,,,,
-https://github.com/BrentAble/stateDesignPattern,State,Java,2019,,State,3,,,bar graph,,
-https://github.com/AjakaouiNabil/SingeltonPattern,Singleton,Java,2017,,Adapter,3,,,,,
-https://github.com/AjakaouiNabil/FactoryPatternOplossing,Factory,Java,2017,,Bridge,1,,,,,
-https://github.com/esmaeil-ahmadipour/Java_SingeltonPattern,Singleton,Java,2019,,Builder,25,,,,,
-https://github.com/fabiooshiro/design-patterns,Singleton,Java,2013,,Composite,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/singleton/example/java,Singleton,Java,2017,,Decorator,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/adapter,Adapter,Java,2017,,Facade,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/bridge,Bridge,Java,2017,,Flyweight,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/builder,Builder,Java,2017,,Interpreter,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/command,Command,Java,2017,,Iterator,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/composite,Composite,Java,2017,,Mediator,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/decorator,Decorator,Java,2017,,Memento,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/facade,Facade,Java,2017,,Observer,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/factory_method,Factory,Java,2017,,Prototype,52,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/flyweight,Flyweight,Java,2017,,Proxy,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/interpreter,Interpreter,Java,2017,,Strategy,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/iterator,Iterator,Java,2017,,Visitor,1,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/mediator,Mediator,Java,2017,,Chain of responsibility,2,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/memento,Memento,Java,2017,,Abstract factory,59,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/observer,Observer,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/prototype,Prototype,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/proxy,Proxy,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/state,State,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/strategy,Strategy,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/template_method,Template,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/visitor,Visitor,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/chain_of_responsibility,Chain of responsibility,Java,2017,,,,,,,,
-https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/abstract_factory,Abstract factory,Java,2017,,,,,,,,
-https://github.com/strayllama/Java_Singleton_design_pattern_example_coding_Universe,Singleton,Java,2018,,,,,,,,
-https://github.com/moztro/Singleton-Design-Pattern,Singleton,Java,2013,,,,,,,,
-https://github.com/Java-Techie-jt/singleton-design-pattern,Singleton,Java,2018,,,,,,,,
-https://github.com/Raushann/SingletonClassDesignPattern,Singleton,Java,2020,,,,,,,,
-https://github.com/thevarunjain/elevator-system,Singleton,Java,2020,,,,,,,,
-https://github.com/swathisprasad/java-design-pattern-singleton,Singleton,Java,2019,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Singleton,Singleton,Java,2020,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Observer,Observer,Java,2020,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Composite,Composite,Java,2020,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Builder,Builder,Java,2020,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Adapter,Adapter,Java,2020,,,,,,,,
-https://github.com/Leogaogithub/Mutual-Exclusion-in-Distributed-Systems,Singleton,Java,2016,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/creational/singleton,Singleton,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/creational/builder,Builder,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/chainofresponsibility,Chain of responsibility,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/memento,Memento,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/state,State,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/adapter,Adapter,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/facade,Facade,Java,2021,,,,,,,,
-https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/flyweight,Flyweight,Java,2021,,,,,,,,
-https://github.com/TudorMaxim/FinancialSystemsCoursework,Singleton,Java,2021,,,,,,,,
-https://github.com/WSU-4110/WarriorSocial,Singleton,Java,2021,,,,,,,,
-https://github.com/nadalmateus/rentx,Singleton,Java,2021,,,,,,,,
-https://github.com/azureswastika/myconfig,Singleton,Java,2021,,,,,,,,
-https://github.com/marius004/Development/blob/main/Design%20Patterns/src/Main.java,Singleton,Java,2021,,,,,,,,
-https://github.com/mahdish74/design-patterns-implementation/tree/main/src/main/java/singleton,Singleton,Java,2021,,,,,,,,
-https://github.com/inferred/FreeBuilder,Builder,Java,2021,,,,,,,,
-https://github.com/hcsp/practise-builder-pattern,Builder,Java,2021,,,,,,,,
-https://github.com/dstar55/100-words-design-patterns-java,Builder,Java,2021,,,,,,,,
-https://github.com/csc301-fall2014/BuilderExample,Builder,Java,2014,,,,,,,,
-https://github.com/lordcodes/SnackbarBuilder,Builder,Java,2019,,,,,,,,
-https://github.com/iamMehedi/stepbuilder,Builder,Java,2016,,,,,,,,
-https://github.com/Gkemon/Android-XML-to-PDF-Generator,Builder,Java,2021,,,,,,,,
-https://github.com/Eng-Fouad/JTelegramBot,Builder,Java,2016,,,,,,,,
-https://github.com/KenWCS/Pattern-Builderr,Builder,Java,2016,,,,,,,,
-https://github.com/jenzz/Java-PojoBuilder,Builder,Java,2015,,,,,,,,
-https://github.com/hcoles/QuickBuilder,Builder,Java,2015,,,,,,,,
-https://github.com/OddCN/go-builder-generator-idea-plugin,Builder,Java,2018,,,,,,,,
-https://github.com/hogeschoolnovi/SD-BE-DP-BuilderPattern_AssTwo,Builder,Java,2020,,,,,,,,
-https://github.com/crispab/javabuilderpattern,Builder,Java,2019,,,,,,,,
-https://github.com/JakeWharton/apibuilder,Builder,Java,2013,,,,,,,,
-https://github.com/julienledem/brennus,Builder,Java,2017,,,,,,,,
-https://github.com/fanta-mnix/body-builder,Builder,Java,,,,,,,,,
-https://github.com/clyoudu/Builgen-plugin,Builder,Java,,,,,,,,,
-https://github.com/speaking-fish/java-sf-builder-simple-example,Builder,Java,,,,,,,,,
-https://github.com/jacksonbarreto/personal-finance-manager,Builder,Java,,,,,,,,,
-https://github.com/JUNGQUI/patternStudy/blob/main/src/main/java/com/jk/study/pattern/builder/JKAccount.java,Builder,Java,,,,,,,,,
-https://github.com/ppw7onefish/Cs_Interview_101/tree/main/DesignPatterns/Chapter02_Creational_Design_Patterns/P4_Prototype_Pattern/Example1,Prototype,Java,,,,,,,,,
-https://github.com/Chronocast/prototype-pattern-example,Prototype,Java,,,,,,,,,
-https://github.com/ZahraHeydari/CreationalDesignPatternsSample,Prototype,Java,,,,,,,,,
-https://github.com/Design-pattrns/Prototype-Pattern,Prototype,Java,,,,,,,,,
-https://github.com/atsarenko/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/archMcMilan/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/faisal-kiet/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/muska2203/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/rafamagalhas/prototype,Prototype,Java,,,,,,,,,
-https://github.com/zhamahz/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/miskohut/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/ren4nh/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/euygor/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/Masyanas/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/z00353/prototype,Prototype,Java,,,,,,,,,
-https://github.com/milicaklaric/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/xiaomi007/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/slavsquad/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/quanguefa23/Study-Design-Pattern,Prototype,Java,,,,,,,,,
-https://github.com/Milkywayrules/prototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/matsouzaleao/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/jeniq/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/sinzen/Prototype,Prototype,Java,,,,,,,,,
-https://github.com/QianguoSun/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/JGurman/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/AlinaShmain/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/BrkSe/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/SeekingPlumBlossoms/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/MAdiiiii/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/CodingJavaPatterns/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/ignarapacon/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/sanketjain1234/prototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/mibadguthwara/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/how2code/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/puneeth-u-bharadwaj/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/OsmarICancino/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/dorin95dp/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/keilanerizza/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/zhangyhForever/prototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/minamiguchi/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/czq2019/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/markvillavidad/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/ursugabriel/prototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/sroba1993/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/mvalho/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/ShellCore/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/chenst417/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/xiaolanlaia/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/ilroberts/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/ssharif-uvic/PrototypePattern,Prototype,Java,,,,,,,,,
-https://github.com/hcsp/factory-method-pattern,Factory,Java,,,,,,,,,
-https://github.com/angerrookie/Factory,Factory,Java,,,,,,,,,
-https://github.com/pknall/DesignPatterns_FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/davitwbd/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/AlexPtrv/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/scyzeq/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Balinator/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/MarcosMFC/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/aplich/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/rahadiandwiputra/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/euygor/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/muheethrahman/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/MadJieJie/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/magbdev/ztp-ps2,Factory,Java,,,,,,,,,
-https://github.com/RahilValiyev/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/danielhurny/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/MedinaAlex/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/elstrike/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/99mini/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/miguelbel00/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/napoleaoonaya/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Caiyanlin/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/626800306/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/temu556/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/shunbou/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Kar-Den/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/napoleaoonaya/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Caiyanlin/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Pattha/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/BrunoMeloeSilva/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/RomainEtienne/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Renan4783/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/takuyakt/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/yusfia/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/pvasquez13/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/WabDaveloper/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/AllanGondin/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/enosteteo/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/thiago-lima26/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/ppolet/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Alexandra1619/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/JoakimGit/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/enosteteo/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/thiago-lima26/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/ppolet/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/JoakimGit/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Reyloso/Factory-Method,Factory,Java,,,,,,,,,
-https://github.com/Dr-Vail/cs453ch04,Factory,Java,,,,,,,,,
-https://github.com/RahilValiyev/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/danielhurny/factoryMethod,Factory,Java,,,,,,,,,
-https://github.com/MedinaAlex/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/shunbou/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/Kar-Den/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/takuyakt/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/yusfia/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/pvasquez13/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/WabDaveloper/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/AllanGondin/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/enosteteo/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/thiago-lima26/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/ppolet/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/thiago-lima26/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/ppolet/FactoryMethod,Factory,Java,,,,,,,,,
-https://github.com/csc301-fall2014/AbstractFactoryExample,Abstract factory,Java,,,,,,,,,
-https://github.com/NathanGrimaud/PatternAbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/ETZ2017/patternsJava,Abstract factory,Java,,,,,,,,,
-https://github.com/milicaklaric/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/JulioRodriguezR/CREATIONAL-DP-AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/sabs231/abstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/vitkozgit/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/KKMalysa/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/DigitalNewt/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/Masyanas/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/faisal-kiet/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/magiclud/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/archMcMilan/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/rdntech14/DesignPattern_AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/raz00/AbstractFactoryDemo,Abstract factory,Java,,,,,,,,,
-https://github.com/chamarasasmith/AbstractFactoryPatternDemo,Abstract factory,Java,,,,,,,,,
-https://github.com/NataliSvet/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/sk0rn/HT19_AbstractFactrory,Abstract factory,Java,,,,,,,,,
-https://github.com/RishikeshGIT/DesignPattern-AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/IbrahimaDiaw/Projet-6-DP-AbstractFatory,Abstract factory,Java,,,,,,,,,
-https://github.com/leave20/AbstractFactoryDesignPatternExample,Abstract factory,Java,,,,,,,,,
-https://github.com/ahmtozdemir/abstract-factory-design-pattern,Abstract factory,Java,,,,,,,,,
-https://github.com/dyamaletdinova/DesignPatterns_AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/clusson/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/vcanadao/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/exZell11/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/emmagrealy/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/rodneylsp/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/emmagrealy/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/paddy667/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/miskohut/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/aasmc/AbstractFactoryDesignPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/kainatjan/factoryAbstract,Abstract factory,Java,,,,,,,,,
-https://github.com/cvb7788/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/jmejiarojas/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/treyhay31/Abstractory,Abstract factory,Java,,,,,,,,,
-https://github.com/dr-sung/DP_abstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/aakash140/Design-Pattern-AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/minhthong8197/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/rimanto98/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/SanzharDev/factoryPatternDemo,Abstract factory,Java,,,,,,,,,
-https://github.com/pranay1494/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/Cherepoval/AbstractFactoryExample,Abstract factory,Java,,,,,,,,,
-https://github.com/lakithjayalath/Abstract-Factory-,Abstract factory,Java,,,,,,,,,
-https://github.com/hscanales/Abstract-Factory,Abstract factory,Java,,,,,,,,,
-https://github.com/junghun133/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/ytam/DesignPattern_AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/Nithanaroy/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/a7512cs/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/julioquintana/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/dafguerreroalpracticas/AbstractFactory-Design-Pattern,Abstract factory,Java,,,,,,,,,
-https://github.com/CavanhaMan/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/sinzen/AbstractFactory,Abstract factory,Java,,,,,,,,,
-https://github.com/sergey198828/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/kalyanpur-sunil/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/ruchi2491/AbstractFactoryDesignPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/JGurman/AbstractFactoryPattern,Abstract factory,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/abstractfactory,Abstract factory,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/bridge,Bridge,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/builder,Builder,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/facade,Facade,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/factorymethod,Factory,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/observer,Observer,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/prototype,Prototype,Java,,,,,,,,,
-https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/singleton,Singleton,Java,,,,,,,,,
-https://gitlab.com/victorolave/Singleton_Java,Singleton,,,,,,,,,,
-https://gitlab.com/ChronTan/singletonpattern,Singleton,,,,,,,,,,
-https://gitlab.com/shan-utils/singleton-config,Singleton,,,,,,,,,,
-https://gitlab.com/vasili_holub/singleton,Singleton,,,,,,,,,,
-https://gitlab.com/Eskentuki/design-patterns,Singleton,,,,,,,,,,
-https://gitlab.com/RomBik17/Pattern-Singleton,Singleton,,,,,,,,,,
-https://gitlab.com/tfcheung/java-console-app-tic-tac-toe,Singleton,,,,,,,,,,
-https://github.com/Raushann/SingletonClassDesignPattern,Singleton,,,,,,,,,,
-https://github.com/dinkar1708-zz/KioskModeAndroid,Singleton,,,,,,,,,,
-https://github.com/oroborous/adv-java-factory-singleton,Singleton,,,,,,,,,,
-https://github.com/moztro/Singleton-Design-Pattern,Singleton,,,,,,,,,,
-https://github.com/MichelSoko/JDBC2,Singleton,,,,,,,,,,
-https://github.com/d-tarasov/dagger-2-activity-scope,Singleton,,,,,,,,,,
-https://github.com/DreamCodeYX/singleton,Singleton,,,,,,,,,,
-https://github.com/karaelf33/singletonDesingPatern,Singleton,,,,,,,,,,
-https://github.com/Design-pattrns/Singleton-Pattern,Singleton,,,,,,,,,,
-https://github.com/JokerLigang/Singleton,Singleton,,,,,,,,,,
-https://github.com/QABABU/Selenium-Framework,Singleton,,,,,,,,,,
-https://github.com/strayllama/Java_Singleton_design_pattern_example_coding_Universe,Singleton,,,,,,,,,,
-https://github.com/folivares/Fused-Location-Singleton,Singleton,,,,,,,,,,
-https://github.com/paul-hammant/java-singleton-detector,Singleton,,,,,,,,,,
-https://github.com/swathisprasad/java-design-pattern-singleton,Singleton,,,,,,,,,,
-https://github.com/vcanadao/Singleton,Singleton,,,,,,,,,,
-https://github.com/yangSirKo/Singleton-Pattern,Singleton,,,,,,,,,,
-https://github.com/AnkurKumar23612/Singleton-Pattern,Singleton,,,,,,,,,,
+Link for the repository:,Design Pattern,Language
+https://github.com/BrentAble/SingeltonPattern,Singleton,Java
+https://github.com/BrentAble/FactoryDesignPattern,Factory,Java
+https://github.com/BrentAble/CommandDesignPattern,Command,Java
+https://github.com/BrentAble/CSCE247TemplateDesignPattern,Template,Java
+https://github.com/BrentAble/stateDesignPattern,State,Java
+https://github.com/AjakaouiNabil/SingeltonPattern,Singleton,Java
+https://github.com/AjakaouiNabil/FactoryPatternOplossing,Factory,Java
+https://github.com/esmaeil-ahmadipour/Java_SingeltonPattern,Singleton,Java
+https://github.com/fabiooshiro/design-patterns,Singleton,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/singleton/example/java,Singleton,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/adapter,Adapter,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/bridge,Bridge,Javа
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/builder,Builder,Javа
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/command,Command,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/composite,Composite,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/decorator,Decorator,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/facade,Facade,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/factory_method,Factory,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/flyweight,Flyweight,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/interpreter,Interpreter,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/iterator,Iterator,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/mediator,Mediator,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/memento,Memento,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/observer,Observer,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/prototype,Prototype,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/proxy,Proxy,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/state,State,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/strategy,Strategy,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/template_method,Template,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/visitor,Visitor,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/chain_of_responsibility,Chain of responsibility,Java
+https://github.com/InnoFang/oh-my-design-patterns/tree/master/src/io/innofang/abstract_factory,Abstract factory,Java
+https://github.com/strayllama/Java_Singleton_design_pattern_example_coding_Universe,Singleton,Java
+https://github.com/moztro/Singleton-Design-Pattern,Singleton,Java
+https://github.com/Java-Techie-jt/singleton-design-pattern,Singleton,Java
+https://github.com/Raushann/SingletonClassDesignPattern,Singleton,Java
+https://github.com/thevarunjain/elevator-system,Singleton,Java
+https://github.com/swathisprasad/java-design-pattern-singleton,Singleton,Java
+https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Singleton,Singleton,Java
+https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Observer,Observer,Java
+https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Composite,Composite,Java
+https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Builder,Builder,Java
+https://github.com/quanguefa23/Study-Design-Pattern/tree/master/JavaDesignPattern/src/Adapter,Adapter,Java
+https://github.com/Leogaogithub/Mutual-Exclusion-in-Distributed-Systems,Singleton,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/creational/singleton,Singleton,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/creational/builder,Builder,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/chainofresponsibility,Chain of responsibility,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/memento,Memento,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/behavioral/state,State,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/adapter,Adapter,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/facade,Facade,Java
+https://github.com/codevillain679/design-patterns/tree/master/src/com/codevillain679/structural/flyweight,Flyweight,Java
+https://github.com/TudorMaxim/FinancialSystemsCoursework,Singleton,Java
+https://github.com/WSU-4110/WarriorSocial,Singleton,Java
+https://github.com/nadalmateus/rentx,Singleton,Java
+https://github.com/azureswastika/myconfig,Singleton,Java
+https://github.com/marius004/Development/blob/main/Design%20Patterns/src/Main.java,Singleton,Java
+https://github.com/mahdish74/design-patterns-implementation/tree/main/src/main/java/singleton,Singleton,Java
+https://github.com/inferred/FreeBuilder,Builder,Java
+https://github.com/hcsp/practise-builder-pattern,Builder,Java
+https://github.com/dstar55/100-words-design-patterns-java,Builder,Java
+https://github.com/csc301-fall2014/BuilderExample,Builder,Java
+https://github.com/lordcodes/SnackbarBuilder,Builder,Java
+https://github.com/iamMehedi/stepbuilder,Builder,Java
+https://github.com/Gkemon/Android-XML-to-PDF-Generator,Builder,Java
+https://github.com/Eng-Fouad/JTelegramBot,Builder,Java
+https://github.com/KenWCS/Pattern-Builderr,Builder,Java
+https://github.com/jenzz/Java-PojoBuilder,Builder,Java
+https://github.com/hcoles/QuickBuilder,Builder,Java
+https://github.com/OddCN/go-builder-generator-idea-plugin,Builder,Java
+https://github.com/hogeschoolnovi/SD-BE-DP-BuilderPattern_AssTwo,Builder,Java
+https://github.com/crispab/javabuilderpattern,Builder,Java
+https://github.com/JakeWharton/apibuilder,Builder,Java
+https://github.com/julienledem/brennus,Builder,Java
+https://github.com/fanta-mnix/body-builder,Builder,Java
+https://github.com/clyoudu/Builgen-plugin,Builder,Java
+https://github.com/speaking-fish/java-sf-builder-simple-example,Builder,Java
+https://github.com/jacksonbarreto/personal-finance-manager,Builder,Java
+https://github.com/JUNGQUI/patternStudy/blob/main/src/main/java/com/jk/study/pattern/builder/JKAccount.java,Builder,Java
+https://github.com/ppw7onefish/Cs_Interview_101/tree/main/DesignPatterns/Chapter02_Creational_Design_Patterns/P4_Prototype_Pattern/Example1,Prototype,Java
+https://github.com/Chronocast/prototype-pattern-example,Prototype,Java
+https://github.com/ZahraHeydari/CreationalDesignPatternsSample,Prototype,Java
+https://github.com/Design-pattrns/Prototype-Pattern,Prototype,Java
+https://github.com/atsarenko/Prototype,Prototype,Java
+https://github.com/archMcMilan/Prototype,Prototype,Java
+https://github.com/faisal-kiet/Prototype,Prototype,Java
+https://github.com/muska2203/Prototype,Prototype,Java
+https://github.com/rafamagalhas/prototype,Prototype,Java
+https://github.com/zhamahz/Prototype,Prototype,Java
+https://github.com/miskohut/Prototype,Prototype,Java
+https://github.com/ren4nh/Prototype,Prototype,Java
+https://github.com/euygor/Prototype,Prototype,Java
+https://github.com/Masyanas/Prototype,Prototype,Java
+https://github.com/z00353/prototype,Prototype,Java
+https://github.com/milicaklaric/Prototype,Prototype,Java
+https://github.com/xiaomi007/Prototype,Prototype,Java
+https://github.com/slavsquad/Prototype,Prototype,Java
+https://github.com/quanguefa23/Study-Design-Pattern,Prototype,Java
+https://github.com/Milkywayrules/prototypePattern,Prototype,Java
+https://github.com/matsouzaleao/Prototype,Prototype,Java
+https://github.com/jeniq/Prototype,Prototype,Java
+https://github.com/sinzen/Prototype,Prototype,Java
+https://github.com/QianguoSun/PrototypePattern,Prototype,Java
+https://github.com/JGurman/PrototypePattern,Prototype,Java
+https://github.com/AlinaShmain/PrototypePattern,Prototype,Java
+https://github.com/BrkSe/PrototypePattern,Prototype,Java
+https://github.com/SeekingPlumBlossoms/PrototypePattern,Prototype,Java
+https://github.com/MAdiiiii/PrototypePattern,Prototype,Java
+https://github.com/CodingJavaPatterns/PrototypePattern,Prototype,Java
+https://github.com/ignarapacon/PrototypePattern,Prototype,Java
+https://github.com/sanketjain1234/prototypePattern,Prototype,Java
+https://github.com/mibadguthwara/PrototypePattern,Prototype,Java
+https://github.com/how2code/PrototypePattern,Prototype,Java
+https://github.com/puneeth-u-bharadwaj/PrototypePattern,Prototype,Java
+https://github.com/OsmarICancino/PrototypePattern,Prototype,Java
+https://github.com/dorin95dp/PrototypePattern,Prototype,Java
+https://github.com/keilanerizza/PrototypePattern,Prototype,Java
+https://github.com/zhangyhForever/prototypePattern,Prototype,Java
+https://github.com/minamiguchi/PrototypePattern,Prototype,Java
+https://github.com/czq2019/PrototypePattern,Prototype,Java
+https://github.com/markvillavidad/PrototypePattern,Prototype,Java
+https://github.com/ursugabriel/prototypePattern,Prototype,Java
+https://github.com/sroba1993/PrototypePattern,Prototype,Java
+https://github.com/mvalho/PrototypePattern,Prototype,Java
+https://github.com/ShellCore/PrototypePattern,Prototype,Java
+https://github.com/chenst417/PrototypePattern,Prototype,Java
+https://github.com/xiaolanlaia/PrototypePattern,Prototype,Java
+https://github.com/ilroberts/PrototypePattern,Prototype,Java
+https://github.com/ssharif-uvic/PrototypePattern,Prototype,Java
+https://github.com/hcsp/factory-method-pattern,Factory,Java
+https://github.com/angerrookie/Factory,Factory,Java
+https://github.com/pknall/DesignPatterns_FactoryMethod,Factory,Java
+https://github.com/davitwbd/FactoryMethod,Factory,Java
+https://github.com/AlexPtrv/FactoryMethod,Factory,Java
+https://github.com/scyzeq/factoryMethod,Factory,Java
+https://github.com/Balinator/factoryMethod,Factory,Java
+https://github.com/MarcosMFC/FactoryMethod,Factory,Java
+https://github.com/aplich/FactoryMethod,Factory,Java
+https://github.com/rahadiandwiputra/FactoryMethod,Factory,Java
+https://github.com/euygor/FactoryMethod,Factory,Java
+https://github.com/muheethrahman/FactoryMethod,Factory,Java
+https://github.com/MadJieJie/FactoryMethod,Factory,Java
+https://github.com/magbdev/ztp-ps2,Factory,Java
+https://github.com/RahilValiyev/factoryMethod,Factory,Java
+https://github.com/danielhurny/factoryMethod,Factory,Java
+https://github.com/MedinaAlex/FactoryMethod,Factory,Java
+https://github.com/elstrike/FactoryMethod,Factory,Java
+https://github.com/99mini/FactoryMethod,Factory,Java
+https://github.com/miguelbel00/FactoryMethod,Factory,Java
+https://github.com/napoleaoonaya/factoryMethod,Factory,Java
+https://github.com/Caiyanlin/FactoryMethod,Factory,Java
+https://github.com/626800306/factoryMethod,Factory,Java
+https://github.com/temu556/FactoryMethod,Factory,Java
+https://github.com/shunbou/FactoryMethod,Factory,Java
+https://github.com/Kar-Den/FactoryMethod,Factory,Java
+https://github.com/napoleaoonaya/factoryMethod,Factory,Java
+https://github.com/Caiyanlin/FactoryMethod,Factory,Java
+https://github.com/Pattha/FactoryMethod,Factory,Java
+https://github.com/BrunoMeloeSilva/FactoryMethod,Factory,Java
+https://github.com/RomainEtienne/FactoryMethod,Factory,Java
+https://github.com/Renan4783/FactoryMethod,Factory,Java
+https://github.com/takuyakt/FactoryMethod,Factory,Java
+https://github.com/yusfia/FactoryMethod,Factory,Java
+https://github.com/pvasquez13/FactoryMethod,Factory,Java
+https://github.com/WabDaveloper/FactoryMethod,Factory,Java
+https://github.com/AllanGondin/FactoryMethod,Factory,Java
+https://github.com/enosteteo/FactoryMethod,Factory,Java
+https://github.com/thiago-lima26/FactoryMethod,Factory,Java
+https://github.com/ppolet/FactoryMethod,Factory,Java
+https://github.com/Alexandra1619/FactoryMethod,Factory,Java
+https://github.com/JoakimGit/FactoryMethod,Factory,Java
+https://github.com/enosteteo/FactoryMethod,Factory,Java
+https://github.com/thiago-lima26/FactoryMethod,Factory,Java
+https://github.com/ppolet/FactoryMethod,Factory,Java
+https://github.com/JoakimGit/FactoryMethod,Factory,Java
+https://github.com/Reyloso/Factory-Method,Factory,Java
+https://github.com/Dr-Vail/cs453ch04,Factory,Java
+https://github.com/RahilValiyev/factoryMethod,Factory,Java
+https://github.com/danielhurny/factoryMethod,Factory,Java
+https://github.com/MedinaAlex/FactoryMethod,Factory,Java
+https://github.com/shunbou/FactoryMethod,Factory,Java
+https://github.com/Kar-Den/FactoryMethod,Factory,Java
+https://github.com/takuyakt/FactoryMethod,Factory,Java
+https://github.com/yusfia/FactoryMethod,Factory,Java
+https://github.com/pvasquez13/FactoryMethod,Factory,Java
+https://github.com/WabDaveloper/FactoryMethod,Factory,Java
+https://github.com/AllanGondin/FactoryMethod,Factory,Java
+https://github.com/enosteteo/FactoryMethod,Factory,Java
+https://github.com/thiago-lima26/FactoryMethod,Factory,Java
+https://github.com/ppolet/FactoryMethod,Factory,Java
+https://github.com/thiago-lima26/FactoryMethod,Factory,Java
+https://github.com/ppolet/FactoryMethod,Factory,Java
+https://github.com/csc301-fall2014/AbstractFactoryExample,Abstract factory,Java
+https://github.com/NathanGrimaud/PatternAbstractFactory,Abstract factory,Java
+https://github.com/ETZ2017/patternsJava,Abstract factory,Java
+https://github.com/milicaklaric/AbstractFactory,Abstract factory,Java
+https://github.com/JulioRodriguezR/CREATIONAL-DP-AbstractFactory,Abstract factory,Java
+https://github.com/sabs231/abstractFactory,Abstract factory,Java
+https://github.com/vitkozgit/AbstractFactory,Abstract factory,Java
+https://github.com/KKMalysa/AbstractFactory,Abstract factory,Java
+https://github.com/DigitalNewt/AbstractFactory,Abstract factory,Java
+https://github.com/Masyanas/AbstractFactory,Abstract factory,Java
+https://github.com/faisal-kiet/AbstractFactory,Abstract factory,Java
+https://github.com/magiclud/AbstractFactory,Abstract factory,Java
+https://github.com/archMcMilan/AbstractFactory,Abstract factory,Java
+https://github.com/rdntech14/DesignPattern_AbstractFactory,Abstract factory,Java
+https://github.com/raz00/AbstractFactoryDemo,Abstract factory,Java
+https://github.com/chamarasasmith/AbstractFactoryPatternDemo,Abstract factory,Java
+https://github.com/NataliSvet/AbstractFactory,Abstract factory,Java
+https://github.com/sk0rn/HT19_AbstractFactrory,Abstract factory,Java
+https://github.com/RishikeshGIT/DesignPattern-AbstractFactory,Abstract factory,Java
+https://github.com/IbrahimaDiaw/Projet-6-DP-AbstractFatory,Abstract factory,Java
+https://github.com/leave20/AbstractFactoryDesignPatternExample,Abstract factory,Java
+https://github.com/ahmtozdemir/abstract-factory-design-pattern,Abstract factory,Java
+https://github.com/dyamaletdinova/DesignPatterns_AbstractFactory,Abstract factory,Java
+https://github.com/clusson/AbstractFactory,Abstract factory,Java
+https://github.com/vcanadao/AbstractFactory,Abstract factory,Java
+https://github.com/exZell11/AbstractFactory,Abstract factory,Java
+https://github.com/emmagrealy/AbstractFactory,Abstract factory,Java
+https://github.com/rodneylsp/AbstractFactory,Abstract factory,Java
+https://github.com/emmagrealy/AbstractFactory,Abstract factory,Java
+https://github.com/paddy667/AbstractFactory,Abstract factory,Java
+https://github.com/miskohut/AbstractFactory,Abstract factory,Java
+https://github.com/aasmc/AbstractFactoryDesignPattern,Abstract factory,Java
+https://github.com/kainatjan/factoryAbstract,Abstract factory,Java
+https://github.com/cvb7788/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/jmejiarojas/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/treyhay31/Abstractory,Abstract factory,Java
+https://github.com/dr-sung/DP_abstractFactory,Abstract factory,Java
+https://github.com/aakash140/Design-Pattern-AbstractFactory,Abstract factory,Java
+https://github.com/minhthong8197/AbstractFactory,Abstract factory,Java
+https://github.com/rimanto98/AbstractFactory,Abstract factory,Java
+https://github.com/SanzharDev/factoryPatternDemo,Abstract factory,Java
+https://github.com/pranay1494/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/Cherepoval/AbstractFactoryExample,Abstract factory,Java
+https://github.com/lakithjayalath/Abstract-Factory-,Abstract factory,Java
+https://github.com/hscanales/Abstract-Factory,Abstract factory,Java
+https://github.com/junghun133/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/ytam/DesignPattern_AbstractFactory,Abstract factory,Java
+https://github.com/Nithanaroy/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/a7512cs/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/julioquintana/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/dafguerreroalpracticas/AbstractFactory-Design-Pattern,Abstract factory,Java
+https://github.com/CavanhaMan/AbstractFactory,Abstract factory,Java
+https://github.com/sinzen/AbstractFactory,Abstract factory,Java
+https://github.com/sergey198828/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/kalyanpur-sunil/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/ruchi2491/AbstractFactoryDesignPattern,Abstract factory,Java
+https://github.com/JGurman/AbstractFactoryPattern,Abstract factory,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/abstractfactory,Abstract factory,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/bridge,Bridge,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/builder,Builder,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/facade,Facade,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/factorymethod,Factory,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/observer,Observer,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/prototype,Prototype,Java
+https://github.com/phuongsala/design-pattern/tree/master/src/phuongsala/designpattern/singleton,Singleton,Java
+https://gitlab.com/victorolave/Singleton_Java,Singleton,Java
+https://gitlab.com/ChronTan/singletonpattern,Singleton,Java
+https://gitlab.com/shan-utils/singleton-config,Singleton,Java
+https://gitlab.com/vasili_holub/singleton,Singleton,Java
+https://gitlab.com/Eskentuki/design-patterns,Singleton,Java
+https://gitlab.com/RomBik17/Pattern-Singleton,Singleton,Java
+https://gitlab.com/tfcheung/java-console-app-tic-tac-toe,Singleton,Java
+https://github.com/Raushann/SingletonClassDesignPattern,Singleton,Java
+https://github.com/dinkar1708-zz/KioskModeAndroid,Singleton,Java
+https://github.com/oroborous/adv-java-factory-singleton,Singleton,Java
+https://github.com/moztro/Singleton-Design-Pattern,Singleton,Java
+https://github.com/MichelSoko/JDBC2,Singleton,Java
+https://github.com/d-tarasov/dagger-2-activity-scope,Singleton,Java
+https://github.com/DreamCodeYX/singleton,Singleton,Java
+https://github.com/karaelf33/singletonDesingPatern,Singleton,Java
+https://github.com/Design-pattrns/Singleton-Pattern,Singleton,Java
+https://github.com/JokerLigang/Singleton,Singleton,Java
+https://github.com/QABABU/Selenium-Framework,Singleton,Java
+https://github.com/strayllama/Java_Singleton_design_pattern_example_coding_Universe,Singleton,Java
+https://github.com/folivares/Fused-Location-Singleton,Singleton,Java
+https://github.com/paul-hammant/java-singleton-detector,Singleton,Java
+https://github.com/swathisprasad/java-design-pattern-singleton,Singleton,Java
+https://github.com/vcanadao/Singleton,Singleton,Java
+https://github.com/yangSirKo/Singleton-Pattern,Singleton,Java
+https://github.com/AnkurKumar23612/Singleton-Pattern,Singleton,Java
